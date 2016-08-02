@@ -28,7 +28,6 @@ import android.provider.CallLog.Calls;
 import android.provider.Settings;
 import android.telecom.AudioState;
 import android.telecom.CallAudioState;
-import android.telecom.CallState;
 import android.telecom.Conference;
 import android.telecom.Connection;
 import android.telecom.DisconnectCause;
