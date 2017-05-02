@@ -505,7 +505,7 @@ public class CallsManager extends Call.ListenerBase
         return (state == CallState.RINGING);
     }
 
-    /*
+    /**
      * Whether allow (silence rather than reject) the incoming call if it has a different source
      * (connection service) from the existing ringing call when reaching maximum ringing calls.
      */
